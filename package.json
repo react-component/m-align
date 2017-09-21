@@ -1,26 +1,27 @@
 {
-  "name": "rc-align",
-  "version": "2.3.4",
-  "description": "align ui component for react",
+  "name": "rmc-align",
+  "version": "1.0.0",
+  "description": "react align ui component for mobile",
   "keywords": [
     "react",
     "react-component",
     "react-align",
-    "align"
+    "align",
+    "mobile align"
   ],
   "files": [
     "lib",
     "es",
     "dist"
   ],
-  "homepage": "http://github.com/react-component/align",
+  "homepage": "http://github.com/react-component/m-align",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/align.git"
+    "url": "git@github.com:react-component/m-align.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/align/issues"
+    "url": "http://github.com/react-component/m-align/issues"
   },
   "licenses": "MIT",
   "main": "./lib/index",
