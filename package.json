@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@types/react": "~16.0.2",
-    "@types/react-dom": "15.5.1",
+    "@types/react-dom": "16.9.4",
     "expect.js": "0.3.x",
     "pre-commit": "1.x",
     "rc-tools": "6.x",
