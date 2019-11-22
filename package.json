@@ -45,7 +45,7 @@
     "coverage": "rc-test run coverage"
   },
   "devDependencies": {
-    "@types/react": "~16.0.2",
+    "@types/react": "~16.9.12",
     "@types/react-dom": "15.5.1",
     "expect.js": "0.3.x",
     "pre-commit": "1.x",
