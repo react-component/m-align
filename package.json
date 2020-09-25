@@ -61,6 +61,6 @@
   "dependencies": {
     "babel-runtime": "6.x",
     "dom-align": "1.x",
-    "rc-util": "4.x"
+    "rc-util": "5.x"
   }
 }
